@@ -26,7 +26,6 @@ router.get('/query', async (ctx, next) => {
     code: 0,
     msg: result
   }
- 
 })
 
 
